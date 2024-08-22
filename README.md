@@ -26,16 +26,3 @@ Our project involved engineering a rover prototype capable of navigating complex
 - **Real-Time Object Detection**: Achieved sub-300ms inference time.
 - **Enhanced Path Planning**: Modified Theta* algorithm for efficient pathfinding.
 
-## Repository Structure
-
-```plaintext
-/src
-    Contains all the source code for object detection, depth estimation, and path planning.
-/models
-    Pre-trained models and weights used in our implementation.
-/docs
-    Documentation, including project reports, presentations, and research papers.
-/scripts
-    Helper scripts for deployment and testing.
-/media
-    Images and videos showcasing our rover in action.
