@@ -38,6 +38,9 @@ Our project involved engineering a rover prototype capable of navigating complex
 **Prototype 1**.
   
 [![Project Video](https://img.youtube.com/vi/yZPEsoxM6oA/0.jpg)]([[https://www.youtube.com/watch?v=yZPEsoxM6oA](https://www.youtube.com/watch?v=yZPEsoxM6oA)])
-**Prototype 2**.
+
+
+**Prototype 2 (Click on image to play the video)**.
   
-[![Project Video](images/Prototype_2.jpg)]([https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1SGig9JHE7UdSr4B0MpWxnoHgKGTtpPFD/view?usp=sharing))
+[![Project Video](images/Prototype_2.jpg)](https://drive.google.com/file/d/1SGig9JHE7UdSr4B0MpWxnoHgKGTtpPFD/view?usp=sharing) 
+
