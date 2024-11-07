@@ -27,8 +27,11 @@ Our project involved engineering a rover prototype capable of navigating complex
 - **Enhanced Path Planning**: Modified Theta* algorithm for efficient pathfinding.
 
 ## Prototypes
-![Description of Image](images/Prototype_1_2.jpg)
-![Description of Image](images/Prototype_2.jpg)
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="images/Prototype_1_2.jpg" width="200" />
+  <img src="images/Prototype_2.jpg" width="200" />
+</div>
 
 ## Demonstration
 
