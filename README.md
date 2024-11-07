@@ -26,3 +26,10 @@ Our project involved engineering a rover prototype capable of navigating complex
 - **Real-Time Object Detection**: Achieved sub-300ms inference time.
 - **Enhanced Path Planning**: Modified Theta* algorithm for efficient pathfinding.
 
+## Prototypes
+![Description of Image](images/Prototype_1_2.jpg)
+![Description of Image](images/Prototype_2.jpg)
+
+## Demonstration
+
+
