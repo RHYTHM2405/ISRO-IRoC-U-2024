@@ -29,8 +29,8 @@ Our project involved engineering a rover prototype capable of navigating complex
 ## Prototypes
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="images/Prototype_1_2.jpg" width="600" />
-  <img src="images/Prototype_2.jpg" width="600" />
+  <img src="images/Prototype_1_2.jpg" width="500" />
+  <img src="images/Prototype_2.jpg" width="500" />
 </div>
 
 ## Demonstration
